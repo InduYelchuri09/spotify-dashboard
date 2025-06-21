@@ -94,26 +94,8 @@ Here’s a visual overview of the Spotify Power BI Dashboard:
 
 ---
 
-## 📬 Contact
-
-Feel free to connect with me for feedback, collaboration, or any questions!
-
-📧 Email: \[your email]
-🔗 LinkedIn: \[your profile]
-🐙 GitHub: \[your GitHub username]
-
----
-
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
 
-Let me know if you'd like help adding:
-
-* A customized banner at the top
-* Sample Spotify data (anonymized)
-* A linked Medium or LinkedIn post write-up
-
-Just say the word!
