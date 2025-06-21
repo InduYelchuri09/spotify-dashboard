@@ -74,11 +74,12 @@ These measures power cards, charts, and dynamic filtering interactions throughou
 
 ## 📷 Dashboard Preview
 
-*(Add a screenshot here)*
+
+
 
 ```md
-![image](https://github.com/user-attachments/assets/da079993-773b-420c-a223-bae45df77b17)
-
+![Spotify Dashboard Preview](![spotify dashboard1](https://github.com/user-attachments/assets/3cfdd8b8-ebbf-490b-827b-7408e231767e)
+)
 ```
 
 ---
