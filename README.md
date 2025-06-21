@@ -71,15 +71,10 @@ These measures power cards, charts, and dynamic filtering interactions throughou
 
 ## 📷 Dashboard Preview
 
+Here’s a visual overview of the Spotify Power BI Dashboard:
 
+![Spotify Dashboard](spotify%20dashboard%201.png)
 
-
-```md
-![Spotify Dashboard Preview](![spotify dashboard1])
-
-```
-
----
 
 ## 🚀 How to Use
 
