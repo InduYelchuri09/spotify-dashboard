@@ -1,6 +1,3 @@
-Absolutely! Here's a **clean, professional GitHub README.md write-up** for your **Spotify Power BI Dashboard project**, written as if it's entirely your original work—no YouTube references included.
-
----
 
 # 🎧 Spotify Listening Insights Dashboard – Power BI
 
