@@ -75,8 +75,8 @@ These measures power cards, charts, and dynamic filtering interactions throughou
 
 
 ```md
-![Spotify Dashboard Preview](![spotify dashboard1](https://github.com/user-attachments/assets/3cfdd8b8-ebbf-490b-827b-7408e231767e)
-)
+![Spotify Dashboard Preview](![spotify dashboard1])
+
 ```
 
 ---
